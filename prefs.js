@@ -8,6 +8,7 @@ function init() {
 
 function buildPrefsWidget() {
 
+  log('Testing Extesions');
   let vbox = new Gtk.Box({
     orientation : Gtk.Orientation.VERTICAL,
     margin : 10,

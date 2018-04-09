@@ -1,11 +1,11 @@
 {  
   "description": "Launch or focus the window or define custom shortcuts in a text file", 
-  "name": "Run or raise", 
+  "name": "Run or Raise Gnome Shell Extension", 
   "shell-version": [
     "3.22.2",
     "3.26.1"    
   ],   
-  "url": "https://github.com/CZ-NIC/run-or-raise",
-  "uuid": "run-or-raise@edvard.cz", 
-  "version": 0.9
+  "url": "https://github.com/smkniazi/run-or-raise",
+  "uuid": "run-or-raise@salman.nz.gmail.com", 
+  "version": 0.1
 }
